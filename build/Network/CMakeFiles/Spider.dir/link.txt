@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-5  -fPIC  -O0 -Wall -ggdb3  -shared -Wl,-soname,libSpider.so -o libSpider.so CMakeFiles/Spider.dir/src/SpiderUtils.cpp.o  -L/mnt/home/lhh/CurlStudy/thirdpart/lib/curl -lcurl -Wl,-rpath,/mnt/home/lhh/CurlStudy/thirdpart/lib/curl 

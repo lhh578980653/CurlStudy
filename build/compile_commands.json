@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/home/lhh/CurlStudy/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-5    -I/mnt/home/lhh/CurlStudy/src/include -I/mnt/home/lhh/CurlStudy/Network/include -I/mnt/home/lhh/CurlStudy/thirdpart/include/curl   -O0 -Wall -ggdb3   -std=c++11 -o CMakeFiles/hello.dir/main.cpp.o -c /mnt/home/lhh/CurlStudy/src/main.cpp",
+  "file": "/mnt/home/lhh/CurlStudy/src/main.cpp"
+},
+{
+  "directory": "/mnt/home/lhh/CurlStudy/build/Network",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-5   -DSpider_EXPORTS -I/mnt/home/lhh/CurlStudy/Network/include -I/mnt/home/lhh/CurlStudy/thirdpart/include/curl   -O0 -Wall -ggdb3 -fPIC   -std=c++11 -o CMakeFiles/Spider.dir/src/SpiderUtils.cpp.o -c /mnt/home/lhh/CurlStudy/Network/src/SpiderUtils.cpp",
+  "file": "/mnt/home/lhh/CurlStudy/Network/src/SpiderUtils.cpp"
+}
+]

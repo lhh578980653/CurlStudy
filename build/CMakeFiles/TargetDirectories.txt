@@ -1,0 +1,8 @@
+/mnt/home/lhh/CurlStudy/build/CMakeFiles/edit_cache.dir
+/mnt/home/lhh/CurlStudy/build/CMakeFiles/rebuild_cache.dir
+/mnt/home/lhh/CurlStudy/build/src/CMakeFiles/edit_cache.dir
+/mnt/home/lhh/CurlStudy/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/home/lhh/CurlStudy/build/src/CMakeFiles/hello.dir
+/mnt/home/lhh/CurlStudy/build/Network/CMakeFiles/edit_cache.dir
+/mnt/home/lhh/CurlStudy/build/Network/CMakeFiles/rebuild_cache.dir
+/mnt/home/lhh/CurlStudy/build/Network/CMakeFiles/Spider.dir

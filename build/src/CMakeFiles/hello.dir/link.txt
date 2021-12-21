@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-5    -O0 -Wall -ggdb3   CMakeFiles/hello.dir/main.cpp.o  -o hello  -L/mnt/home/lhh/CurlStudy/build/Spider ../Network/libSpider.so -lcurl -Wl,-rpath,/mnt/home/lhh/CurlStudy/build/Spider:/mnt/home/lhh/CurlStudy/build/Network 
